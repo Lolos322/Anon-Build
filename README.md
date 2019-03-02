@@ -13,6 +13,8 @@
 
 ### Вспомагательные моды
 * Not Enough Items (1.0.5.120)
+* BetterFps (1)
+* FastCraft (25)
 
 ### Технические моды
 * Code Chicken Core (1.0.7.47)
