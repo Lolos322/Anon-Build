@@ -8,10 +8,12 @@
 ## Список модов 
 
 ### Основные моды
-⋅⋅⋅* GregTeсh 6
+* GregTeсh 6
 
 
 ### Вспомагательные моды
 <hr>
 
-**Just Enough Items**
+* Just Enough Items
+
+
