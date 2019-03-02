@@ -8,10 +8,13 @@
 ## Список модов 
 
 ### Основные моды
-* GregTeсh 6
+* GregTeсh 6 (10.04)
 
 
 ### Вспомагательные моды
-* Just Enough Items
+* Not Enough Items
 
+### Технические моды
+* Code Chicken Core (1.0.7.47)
 
+### Прочее
