@@ -12,7 +12,7 @@
 
 
 ### Вспомагательные моды
-* Not Enough Items
+* Not Enough Items (1.0.5.120)
 
 ### Технические моды
 * Code Chicken Core (1.0.7.47)
