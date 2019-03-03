@@ -13,11 +13,15 @@
 
 ### Вспомогательные моды
 * Not Enough Items (1.0.5.120)
-* BetterFps (1)
-* FastCraft (25)
+* Antique Atlas (4.4.4)
 
 ### Технические моды
 * Code Chicken Core (1.0.7.47)
+* BetterFps (1)
+* FastCraft (25)
+
+### Textures Pack
+* Golrith's Texture Pack
 
 ### Прочее
 
