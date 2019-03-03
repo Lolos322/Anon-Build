@@ -10,11 +10,13 @@
 ### Основные моды
 * GregTeсh 6 (10.05)
 
-### Аддоны
-
 ### Вспомогательные моды
 * Not Enough Items (1.0.5.120)
 * Antique Atlas (4.4.4)
+* Waila (1.5.10)
+
+### Аддоны
+* Waila Harvestabilitty (1.1.6)
 
 ### Технические моды
 * Code Chicken Core (1.0.7.47)
