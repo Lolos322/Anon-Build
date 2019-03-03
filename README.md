@@ -20,7 +20,7 @@
 * BetterFps (1)
 * FastCraft (25)
 
-### Textures Pack
+### Resource Packs
 * Golrith's Texture Pack
 
 ### Прочее
