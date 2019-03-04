@@ -25,10 +25,13 @@
 * Code Chicken Core (1.0.7.47)
 * BetterFps (1.0)
 * FastCraft (25.0)
+* FpsPlus
 
 ### Resource Packs
-* Golrith's Texture Pack
-* Fps Boost 4px and 8px
+* FaithFul Lolos Edition
+* Golrith's Texture Pack (AntiqueAtlasExtra)
+* Optim 7px
+* Optim 8px
 
 ### Прочее
 
