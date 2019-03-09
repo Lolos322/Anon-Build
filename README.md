@@ -9,14 +9,14 @@
 ## Список модов 
 
 ### Основные моды
-* GregTeсh 6 (10.05)
+* GregTeсh 6 (10.06)
 
 ### Вспомогательные моды
 * Not Enough Items (1.0.5.120)
 * Antique Atlas (4.4.4)
 * Waila (1.5.10)
 * HudWidgets (0.6.1)
-* Achievement Books (1.0)
+* Better Questing (2.233)
 
 ### Аддоны
 * Waila Harvestabilitty (1.1.6)
