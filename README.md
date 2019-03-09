@@ -39,4 +39,4 @@
 
 *Настроить BetterFps можно тремя способами, прямо в игре, для этого нажмите F12, либо настроить в файле конфигурации, либо открыв в папке mods BetterFps.jar*
 
-*Можно установить другие темы для Better Questing, к примеру [Diablo Theme](https://minecraft.curseforge.com/projects/diablo-theme-bq "Описание") или Fallout Theme 
+*Можно установить другие темы для Better Questing, к примеру [Diablo Theme](https://minecraft.curseforge.com/projects/diablo-theme-bq "Перейти к моду") или [Fallout Theme](https://minecraft.curseforge.com/projects/bq-fallout-theme"Перейти к моду") 
