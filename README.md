@@ -20,6 +20,8 @@
 
 ### Аддоны
 * Waila Harvestabilitty (1.1.6)
+* Better Questing - Quest Book (2.1.0)
+* Better Questing - Standart Expansion (2.0.130)
 
 ### Технические моды
 * Code Chicken Core (1.0.7.47)
@@ -27,7 +29,7 @@
 * FastCraft (25.0)
 * FpsPlus
 
-### Resource Packs
+### Resource Packs and other
 * FaithFul Lolos Edition
 * Golrith's Texture Pack (AntiqueAtlasExtra)
 * Optim 7px
@@ -36,3 +38,5 @@
 ### Прочее
 
 *Настроить BetterFps можно тремя способами, прямо в игре, для этого нажмите F12, либо настроить в файле конфигурации, либо открыв в папке mods BetterFps.jar*
+
+*Можно установить другие темы для Better Questing, к примеру [Diablo Theme](https://minecraft.curseforge.com/projects/diablo-theme-bq "Описание") или Fallout Theme 
