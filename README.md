@@ -7,25 +7,24 @@
 ## Список модов 
 
 ### Основные моды
-* GregTeсh 5
+* GregTeсh Community Edition
 
 ### Вспомогательные моды
-* Not Enough Items (1.0.5.120)
+* Just Enough Items (4.15.0.268)
 * Antique Atlas (4.4.4)
-* Waila (1.5.10)
-* HudWidgets (0.6.1)
+* The One Probe (1.5.10)
+* Better Hud (1.3.9)
 * Better Questing (2.233)
 
 ### Аддоны
 * Waila Harvestabilitty (1.1.6)
-* Better Questing - Quest Book (2.1.0)
-* Better Questing - Standart Expansion (2.0.130)
+* Better Questing - Quest Book (3.5.294)
+* Better Questing - Standart Expansion (3.4.153)
 
 ### Технические моды
-* Code Chicken Core (1.0.7.47)
-* BetterFps (1.0)
-* FastCraft (25.0)
-* FpsPlus
+* OptiFine (HD U E3)
+* Code Chicken Lib (3.2.2.353)
+* BetterFps (1.4.5)
 
 ### Resource Packs and other
 * FaithFul Lolos Edition
