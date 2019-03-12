@@ -13,11 +13,9 @@
 * Just Enough Items (4.15.0.268)
 * Antique Atlas (4.4.4)
 * The One Probe (1.5.10)
-* Better Hud (1.3.9)
 * Better Questing (2.233)
 
 ### Аддоны
-* Waila Harvestabilitty (1.1.6)
 * Better Questing - Quest Book (3.5.294)
 * Better Questing - Standart Expansion (3.4.153)
 
@@ -28,9 +26,6 @@
 
 ### Resource Packs and other
 * FaithFul Lolos Edition
-* Golrith's Texture Pack (AntiqueAtlasExtra)
-* Optim 7px
-* Optim 8px
 
 ### Прочее
 
