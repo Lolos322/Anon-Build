@@ -39,7 +39,7 @@
 
 *Можно установить другие темы для Better Questing, к примеру [Diablo Theme](https://minecraft.curseforge.com/projects/diablo-theme-bq "Перейти к моду") или [Fallout Theme](https://minecraft.curseforge.com/projects/bq-fallout-theme "Перейти к моду")*
 
-*Для оптимизации игры можно использовать моды из папки FPS PLUS, они могут как увеличить, так и понизить производительность
+*Для оптимизации игры можно использовать моды из папки FPS PLUS, они могут как увеличить, так и понизить производительность*
 
 
 # Как установить?
