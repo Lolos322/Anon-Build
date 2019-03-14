@@ -9,5 +9,6 @@
 * Ставим ***Forge2766***, в папке _forge_, открываем forge2766.jar и указываем путь к игре<br>
 ![install](https://pp.userapi.com/c845220/v845220036/1c91e1/G8PFaWQHmeI.jpg)
 * Копируем все файлы кроме *README.MD* и папки *_forge2766_* в папку с игрой
+![copy](https://pp.userapi.com/c845220/v845220036/1c91e8/SacVibR5MmE.jpg)
 
 * ***OPTIFINE НЕ НУЖНО СТАВИТЬ, ОН УЖЕ ЕСТЬ В СБОРКЕ***
