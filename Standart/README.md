@@ -1,6 +1,6 @@
 # Как установить?
 * Копируем папку Standart
-[pic]:https://pp.userapi.com/c845220/v845220036/1c91b2/C7yemEbf9OM.jpg
+[pic]: https://pp.userapi.com/c845220/v845220036/1c91b2/C7yemEbf9OM.jpg
 * Устанавливаем Minecraft версии ***1.12.2***
 * Запускаем игру один раз для создание профиля
 * Ставим ***Forge2766*** в папке _forge_, открываем forge2766.jar
