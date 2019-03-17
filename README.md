@@ -1,4 +1,4 @@
-###### Версия 0.3.2 (Alpha)
+###### Версия 0.3.3 (Alpha)
 ###### Версия майнкрафта 1.12.2
 ###### Forge 14.23.4.2766
 ###### Mods (17)
@@ -12,7 +12,6 @@
 ### Вспомогательные моды
 * Just Enough Items (4.15.0.268)
 * Antique Atlas by Lolos (4.4.4)
-* Toro Health (2-11)
 * Hwyla
 * Better Questing (2.233)
 
