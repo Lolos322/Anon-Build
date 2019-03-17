@@ -1,4 +1,4 @@
-###### Версия 0.3.1 (Alpha)
+###### Версия 0.3.2 (Alpha)
 ###### Версия майнкрафта 1.12.2
 ###### Forge 14.23.4.2766
 ###### Mods (17)
@@ -23,9 +23,9 @@
 ### Технические моды
 * OptiFine (HD U E3)
 * Code Chicken Lib (3.2.2.353)
-* BetterFps (1.4.5)
 
 ### Fps Plus
+* BetterFps (1.4.5)
 * FoamFix (0.10.3)
 * TexFix (4.0)
 * VanillaFix (1.0.10-99)
@@ -35,11 +35,9 @@
 
 ### Прочее
 
-*Настроить BetterFps можно тремя способами, прямо в игре, для этого нажмите F12, либо настроить в файле конфигурации, либо открыв в папке minecraft/mods/BetterFps.jar*
-
 *Можно установить другие темы для Better Questing, к примеру [Diablo Theme](https://minecraft.curseforge.com/projects/diablo-theme-bq "Перейти к моду") или [Fallout Theme](https://minecraft.curseforge.com/projects/bq-fallout-theme "Перейти к моду")*
 
-*Для оптимизации игры можно использовать моды из папки FPS PLUS, они могут как увеличить, так и понизить производительность*
+*В ветке [`lite`](https://github.com/LolosTwo/Anon-Build/tree/lite), можно оптимизировать игру*
 
 
 # Как установить?
